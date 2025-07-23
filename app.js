@@ -1,4 +1,4 @@
-const TARGET_WORD = "사랑"; // 정답 단어
+const TARGET_WORD = "한약"; // 정답 단어
 const feedbackContainer = document.getElementById('feedback');
 const guessInput = document.getElementById('guess');
 const submitBtn = document.getElementById('submitBtn');
